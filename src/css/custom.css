@@ -17,3 +17,8 @@ div.react-tooltip {
     font-weight: 400;
     padding: 2px 12px 2px 12px;
 }
+
+svg {
+    width: 100%;
+    height: auto;
+}
