@@ -41,5 +41,4 @@ seo:
   metaDescription: Terms of Service
   addTitleSuffix: false
   socialImage: /images/social.png
-  metaTags: [terms, legal]
 ---

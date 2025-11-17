@@ -48,5 +48,4 @@ seo:
   metaDescription: Impressum
   addTitleSuffix: false
   socialImage: /images/social.png
-  metaTags: [ impressum, legal ]
 ---
