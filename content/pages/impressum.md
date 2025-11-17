@@ -46,6 +46,4 @@ seo:
   type: Seo
   metaTitle: Impressum
   metaDescription: Impressum
-  addTitleSuffix: false
-  socialImage: /images/social.png
 ---

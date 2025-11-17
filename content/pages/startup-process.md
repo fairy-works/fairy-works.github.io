@@ -73,6 +73,4 @@ seo:
   type: Seo
   metaTitle: How it's done
   metaDescription: How it's done
-  addTitleSuffix: false
-  socialImage: /images/social.png
 ---

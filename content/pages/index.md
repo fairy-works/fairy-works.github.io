@@ -558,9 +558,8 @@ sections:
     colors: bg-light-fg-dark
     type: GenericSection
 seo:
-  metaTitle: Expert Freelance Software Developer - Enterprise to Startup Solutions
+  metaTitle: Expert Freelance Software Developer - Startup to Enterprise Solutions
   metaDescription: Experienced freelance software developer specializing in enterprise systems, startup MVPs, and full-stack development. Available for complex on-premise systems and agile startup projects.
-  socialImage: https://fairy.works/images/social.png
   type: Seo
 type: PageLayout
 ---

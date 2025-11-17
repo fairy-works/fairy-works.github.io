@@ -144,6 +144,4 @@ seo:
     type: Seo
     metaTitle: Privacy Policy
     metaDescription: Privacy Policy
-    addTitleSuffix: false
-    socialImage: /images/social.png
 ---

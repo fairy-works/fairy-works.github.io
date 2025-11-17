@@ -39,6 +39,4 @@ seo:
   type: Seo
   metaTitle: Terms of Service
   metaDescription: Terms of Service
-  addTitleSuffix: false
-  socialImage: /images/social.png
 ---

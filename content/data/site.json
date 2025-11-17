@@ -1,8 +1,7 @@
 {
     "favicon": "/images/favicon.svg",
     "footer": "content/data/footer.json",
-    "titleSuffix": "Fairy Works - Expert Software Development",
-    "defaultSocialImage": "/images/social.png",
+    "defaultSocialImage": "https://fairy.works/images/social.png",
     "type": "Config",
     "header": "content/data/header.json"
 }
