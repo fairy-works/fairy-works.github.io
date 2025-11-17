@@ -565,6 +565,6 @@ seo:
     - property: og:description
       content:  Experienced freelance software developer specializing in startup MVPs, and full-stack development. Available for complex on-premise systems and agile startup projects.
     - property: twitter:card
-      content: "https://fairy.works/images/social.png"
+      content: summary_large_image
 type: PageLayout
 ---

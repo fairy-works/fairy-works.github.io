@@ -55,5 +55,5 @@ seo:
     - property: og:description
       content: Experience Summary
     - property: twitter:card
-      content: "https://fairy.works/images/social.png"
+      content: summary_large_image
 ---
