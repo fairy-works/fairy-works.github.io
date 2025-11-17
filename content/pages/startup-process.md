@@ -76,4 +76,6 @@ seo:
   metaTags:
     - property: og:description
       content: How it's done
+    - property: twitter:card
+      content: "https://fairy.works/images/social.png"
 ---

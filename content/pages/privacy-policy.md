@@ -147,4 +147,6 @@ seo:
     metaTags:
       - property: og:description
         content: Privacy Policy
+      - property: twitter:card
+        content: "https://fairy.works/images/social.png"
 ---
