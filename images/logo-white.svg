@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="42"
+   height="42"
+   viewBox="0 0 186.24001 186.24"
+   version="1.1"
+   id="svg135"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg">
+  <defs
+     id="defs132">
+    <linearGradient
+       id="linearGradient8007">
+      <stop
+         style="stop-color:#00ffff;stop-opacity:1;"
+         offset="0"
+         id="stop8003" />
+      <stop
+         style="stop-color:#00ffff;stop-opacity:0;"
+         offset="1"
+         id="stop8005" />
+    </linearGradient>
+    <marker
+       style="overflow:visible"
+       id="Arrow4-2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="420.202"
+       markerHeight="756.36359"
+       viewBox="0 0 5 6"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="m 1,0 -3,3 h -2 l 3,-3 -3,-3 h 2 z"
+         id="path1741-2" />
+    </marker>
+    <radialGradient
+       xlink:href="#linearGradient8007"
+       id="radialGradient8061"
+       cx="97.958138"
+       cy="99.13385"
+       fx="97.958138"
+       fy="99.13385"
+       r="97.88929"
+       gradientTransform="matrix(0.91164356,0,0,0.04893296,7.0712614,120.01807)"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter14741"
+       x="-3.136491"
+       y="-1609.8182"
+       width="5.1879056"
+       height="3222.7184">
+      <feGaussianBlur
+         stdDeviation="0.2171919"
+         id="feGaussianBlur14743" />
+    </filter>
+    <marker
+       style="overflow:visible"
+       id="Arrow4-2-6"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="420.202"
+       markerHeight="756.36359"
+       viewBox="0 0 5 6"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="m 1,0 -3,3 h -2 l 3,-3 -3,-3 h 2 z"
+         id="path1741-2-1" />
+    </marker>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter14741-2"
+       x="-3.1364912"
+       y="-1609.8182"
+       width="5.1879058"
+       height="3222.7184">
+      <feGaussianBlur
+         stdDeviation="0.2171919"
+         id="feGaussianBlur14743-9" />
+    </filter>
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(7.1243775e-8,-31.756)">
+    <rect
+       style="display:inline;fill:url(#radialGradient8061);fill-opacity:1;stroke-width:5.63815;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="rect3747"
+       width="178.48032"
+       height="9.5800257"
+       x="7.1339793"
+       y="120.07896" />
+    <path
+       style="opacity:1;fill:#808080;fill-opacity:1;stroke:#808080;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-mid:url(#Arrow4-2);filter:url(#filter14741)"
+       d="m 141.77081,125.08862 21.67742,-0.0418 v 0"
+       id="path3521-8" />
+    <path
+       style="opacity:1;fill:#808080;fill-opacity:1;stroke:#808080;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-mid:url(#Arrow4-2-6);filter:url(#filter14741-2)"
+       d="m 67.991036,125.0882 21.677419,-0.0418 v 0"
+       id="path3521-8-3" />
+  </g>
+</svg>
