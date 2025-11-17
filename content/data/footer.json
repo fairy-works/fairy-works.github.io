@@ -1,0 +1,122 @@
+{
+    "logo": {
+        "url": "/images/logo-white.svg",
+        "altText": "Fairy Works - Expert Software Development",
+        "type": "ImageBlock"
+    },
+    "text": "Expert freelance software developer specializing in enterprise systems and startup solutions. Available for projects worldwide.",
+    "primaryLinks": {
+        "title": "Services",
+        "links": [
+            {
+                "label": "Enterprise Systems",
+                "altText": "Enterprise software development",
+                "url": "/#enterprise",
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "type": "Link"
+            },
+            {
+                "label": "Startup MVPs",
+                "url": "/#startup",
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "type": "Link"
+            },
+            {
+                "label": "Full-Stack Development",
+                "url": "/#services",
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "type": "Link"
+            }
+        ],
+        "type": "FooterLinksGroup"
+    },
+    "secondaryLinks": {
+        "title": "Profession",
+        "links": [
+            {
+                "label": "Open Source",
+                "altText": "Open Source contributions",
+                "url": "https://szabope.works/",
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "type": "Link"
+            },
+            {
+                "label": "Experience",
+                "altText": "Experience summary",
+                "url": "/experience-summary",
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "type": "Link"
+            },
+            {
+                "label": "Contact",
+                "url": "/#contact-form",
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "type": "Link"
+            }
+        ],
+        "type": "FooterLinksGroup"
+    },
+    "socialLinks": [
+        {
+            "altText": "GitHub profile",
+            "url": "https://github.com/szabope",
+            "icon": "github",
+            "type": "Social"
+        },
+        {
+            "altText": "Zero Social Media Presence",
+            "url": "#",
+            "icon": "linkedin",
+            "type": "Social",
+            "disabled": true,
+            "elementId": "linkedinButton"
+        },
+        {
+            "altText": "Email contact",
+            "url": "mailto:ThisAddressReceivesALotOfSpamPleaseUseContactFormInstead@fairy.works",
+            "icon": "mail",
+            "type": "Social"
+        }
+    ],
+    "legalLinks": [
+        {
+            "label": "Terms",
+            "url": "/terms-of-service",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
+        },
+        {
+            "label": "Impressum",
+            "url": "/impressum",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
+        },
+        {
+            "label": "Privacy",
+            "url": "/privacy-policy",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
+        }
+    ],
+    "copyrightText": "© 2025 FairyWorks Digital Kft. All rights reserved.",
+    "colors": "bg-dark-fg-light",
+    "type": "Footer"
+}

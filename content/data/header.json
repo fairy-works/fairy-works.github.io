@@ -1,0 +1,46 @@
+{
+    "logo": {
+        "url": "/images/logo-dark.svg",
+        "altText": "Fairy Works - Expert Software Development",
+        "styles": {
+            "self": {
+                "margin": ["mr-3"]
+            }
+        },
+        "type": "ImageBlock"
+    },
+    "primaryLinks": [
+        {
+            "label": "Services",
+            "url": "/#services",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
+        },
+        {
+            "label": "About",
+            "altText": "About my expertise",
+            "url": "/#expertise",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
+        }
+    ],
+    "secondaryLinks": [
+        {
+            "label": "Get Quote",
+            "altText": "Get project quote",
+            "url": "/#contact-form",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "type": "Button"
+        }
+    ],
+    "variant": "logo-left-primary-nav-right",
+    "colors": "bg-light-fg-dark",
+    "type": "Header",
+    "title": "FairyWorks Digital Kft."
+}
