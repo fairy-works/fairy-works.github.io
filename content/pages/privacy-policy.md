@@ -146,5 +146,4 @@ seo:
     metaDescription: Privacy Policy
     addTitleSuffix: false
     socialImage: /images/social.png
-    metaTags: [ privacy policy, legal ]
 ---

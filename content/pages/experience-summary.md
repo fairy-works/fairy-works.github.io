@@ -53,5 +53,4 @@ seo:
   metaDescription: Experience Summary
   addTitleSuffix: false
   socialImage: /images/social.png
-  metaTags: [ experience, technical ]
 ---

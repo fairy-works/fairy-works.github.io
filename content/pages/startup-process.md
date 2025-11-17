@@ -75,5 +75,4 @@ seo:
   metaDescription: How it's done
   addTitleSuffix: false
   socialImage: /images/social.png
-  metaTags: [ how, process, project ]
 ---

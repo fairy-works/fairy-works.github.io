@@ -541,6 +541,7 @@ sections:
           borderWidth: 1
           borderRadius: large
       type: FormBlock
+      # do not remove, this is the form key
       elementId: mqagpnzv
       submitButton:
         type: SubmitButtonFormControl
@@ -559,7 +560,7 @@ sections:
 seo:
   metaTitle: Expert Freelance Software Developer - Enterprise to Startup Solutions
   metaDescription: Experienced freelance software developer specializing in enterprise systems, startup MVPs, and full-stack development. Available for complex on-premise systems and agile startup projects.
-  socialImage: /images/social.png
+  socialImage: https://fairy.works/images/social.png
   type: Seo
 type: PageLayout
 ---
