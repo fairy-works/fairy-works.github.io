@@ -51,5 +51,7 @@ seo:
   type: Seo
   metaTitle: Experience Summary
   metaDescription: Experience Summary
-  addTitleSuffix: false
+  metaTags:
+    - property: og:description
+      content: Experience Summary
 ---

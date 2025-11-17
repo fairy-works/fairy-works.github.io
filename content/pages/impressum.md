@@ -46,4 +46,7 @@ seo:
   type: Seo
   metaTitle: Impressum
   metaDescription: Impressum
+  metaTags:
+    - property: og:description
+      content: Impressum
 ---

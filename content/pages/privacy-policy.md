@@ -144,4 +144,7 @@ seo:
     type: Seo
     metaTitle: Privacy Policy
     metaDescription: Privacy Policy
+    metaTags:
+      - property: og:description
+        content: Privacy Policy
 ---

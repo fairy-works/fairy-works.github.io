@@ -39,4 +39,7 @@ seo:
   type: Seo
   metaTitle: Terms of Service
   metaDescription: Terms of Service
+  metaTags:
+    - property: og:description
+      content: Terms of Service
 ---

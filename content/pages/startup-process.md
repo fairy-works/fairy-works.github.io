@@ -73,4 +73,7 @@ seo:
   type: Seo
   metaTitle: How it's done
   metaDescription: How it's done
+  metaTags:
+    - property: og:description
+      content: How it's done
 ---
